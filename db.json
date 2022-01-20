@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "learn typescript",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "learn photoshop",
+      "day": "someday",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "learn typescript",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "text": "asd",
+      "day": "asd",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
